@@ -20,7 +20,7 @@
 ```typescript
 const sahilBisht = {
   title: "Data Analyst",
-  stack: ["Python", "SQL", "Advanced Excel"],
+  stack: ["Python", "SQL", "Advanced Excel","Power Bi"],
   launchedProjects: ["sahilbishttt"],
   certifications: [],
   status: "Open to Work",
